@@ -15,5 +15,44 @@
   </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/grlkPWm6vpdRqZqMQV/giphy.gif" width="600" height="300"/>
+  <img src="https://thumbs.gfycat.com/BelatedVeneratedKiskadee-max-1mb.gif" width="800" height="500"/>
 </div>
+
+---
+
+### :man_technologist: About Me :
+I am a Financial Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+- :technologist: I work as a Financial Analyst, compile and analyze financial statements.
+
+- :seedling: I am developing in the field of data analysis.
+
+- :zap: In my free time, I read tech articles, explore interesting datasets on kaggle.com and solve problems on ITResume.
+
+- :mailbox:How to reach me: [![telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/evglev_tg)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas"  alt="Pandas" width="50" height="50"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql"  alt="postgresql" width="50" height="50"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="oracle"  alt="oracle" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
+  <img src="https://seeklogo.com/images/C/clickhouse-logo-653663F866-seeklogo.com.png" title="clickhouse"  alt="clickhouse" width="50" height="50"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" title="airflow" alt="airflow" width="100" height="50"/>&nbsp
+</div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=evglev96&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evglev96&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
