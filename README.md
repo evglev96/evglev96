@@ -21,7 +21,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Financial Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am an Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - :technologist: I work as a Financial Analyst, compile and analyze financial statements.
 
 - :seedling: I am developing in the field of data analysis.
